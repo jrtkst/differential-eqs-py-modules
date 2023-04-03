@@ -1,6 +1,6 @@
 # differential-eqs-py-modules
 
-A Python module for differential equations programming using Python written in Bahasa (Indonesia). Most computations were done using `SymPy` packages. This set of modules was put together to support the Introduction to ODEs (MA2271) Laboratory in Bandung Institute of Technology, Indonesia.
+A Python module for differential equations programming using Python **written in Bahasa (Indonesia)**. Most computations were done using `SymPy` packages. This set of modules was put together to support the Introduction to ODEs (MA2271) Laboratory in Bandung Institute of Technology, Indonesia.
 
 Consisted of 8 chapters, 
 1. Introduction to Python for ODEs (*Pengantar Python untuk PDB*)
