@@ -10,4 +10,4 @@ Consisted of 8 chapters,
 5. System of ODEs and Phase Portrait (*Sistem Persamaan Diferensial dan Bidang Fasa*)
 6. Fundamental Matrices, Equlibrium Stability, Nonlinear Systems (*Matriks Fundamental, Kestabilan Ekuilibrium, Sistem Nonlinear*)
 7. Fourier Series (*Deret Fourier*)
-8. Heat and Wave Equation (*Persamaan Panas dan Gelombang*)
+8. Heat, Wave, and Laplace Equations (*Persamaan Panas, Gelombang, dan Laplace*)
