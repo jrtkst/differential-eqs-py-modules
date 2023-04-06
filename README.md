@@ -11,3 +11,5 @@ Consisted of 8 chapters,
 6. Fundamental Matrices, Equlibrium Stability, Nonlinear Systems (*Matriks Fundamental, Kestabilan Ekuilibrium, Sistem Nonlinear*)
 7. Fourier Series (*Deret Fourier*)
 8. Heat, Wave, and Laplace Equations (*Persamaan Panas, Gelombang, dan Laplace*)
+
+For best learning experience, please download the source code and run it on your personal computer, or using Google Colab :D
