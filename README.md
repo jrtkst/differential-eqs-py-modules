@@ -1,15 +1,15 @@
 # differential-eqs-py-modules
 
-A Python module for differential equations programming using Python **written in Bahasa (Indonesia)**. Most computations were done using `SymPy` packages. This set of modules was put together to support the Introduction to ODEs (MA2271) Laboratory in Bandung Institute of Technology, Indonesia.
+Modul Python untuk pemrograman atau simulasi persamaan diferensial, ditulis dalam Bahasa Indonesia. Sebagian besar proses komputasi dilakukan menggunakan paket `SymPy`. Himpunan modul berikut disusun untuk memenuhi kebutuhan praktikum di laboratorium Pengantar Persamaan Diferensial (MA2271) Institut Teknologi Bandung 2023.
 
-Consisted of 8 chapters, 
-1. Introduction to Python for ODEs (*Pengantar Python untuk PDB*)
-2. First Order ODEs (*Persamaan Diferensial Biasa Orde 1*)
-3. $n$-th Order ODEs (*Persamaan Diferensial Biasa Orde* $n$)
-4. Laplace Transform and Its Applications (*Transformasi Laplace dan Aplikasinya*)
-5. System of ODEs and Phase Portrait (*Sistem Persamaan Diferensial dan Bidang Fasa*)
-6. Fundamental Matrices, Equlibrium Stability, Nonlinear Systems (*Matriks Fundamental, Kestabilan Ekuilibrium, Sistem Nonlinear*)
-7. Fourier Series (*Deret Fourier*)
-8. Heat, Wave, and Laplace Equations (*Persamaan Panas, Gelombang, dan Laplace*)
+Terdiri dari 8 bab, 
+1. Pengantar Python untuk Persamaan Diferensial Biasa
+2. Persamaan Diferensial Biasa Orde 1
+3. Persamaan Diferensial Biasa Orde $n$
+4. Transformasi Laplace dan Aplikasinya
+5. Sistem persamaan Diferensial dan Bidang Fasa
+6. Matriks Fundamental, Kestabilan Ekuilibrium, Sistem Nonlinear
+7. Deret Fourier
+8. Persamaan Panas, Gelombang, dan Laplace
 
-For best learning experience, please download the source code and run it on your personal computer, or using Google Colab :D
+Untuk pengalaman terbaik, silahkan unduh modul berikut atau gunakan Google Colab. :)
